@@ -43,6 +43,6 @@ The instructions for this Challenge are divided into the following subsections:
 
         - Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
-
+![Alt text](<Screen Shot 2024-01-04 at 11.16.26 PM-1.png>)
 
 
